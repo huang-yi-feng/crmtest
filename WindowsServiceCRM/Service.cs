@@ -19,11 +19,12 @@ namespace WindowsServiceCRM
 
         protected override void OnStart(string[] args)
         {
-
+            //開始
         }
 
         protected override void OnStop()
         {
+            //結束
 
         }
     }
