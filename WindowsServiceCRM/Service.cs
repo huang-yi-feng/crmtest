@@ -25,7 +25,6 @@ namespace WindowsServiceCRM
         protected override void OnStop()
         {
             //結束
-
         }
     }
 }
